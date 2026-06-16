@@ -1,5 +1,16 @@
 # E-Commerce Sales Analytics Dashboard
 
+End-to-end Business Intelligence project using SQL, Python, MySQL, and Power BI on the Olist Brazilian E-Commerce dataset.
+
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical-purple)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![SQL](https://img.shields.io/badge/SQL-Analytics-red)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Git](https://img.shields.io/badge/Git-Version%20Control-lightgrey)
+
 ## Overview
 
 This project is an end-to-end Business Intelligence and Data Analytics solution built using the Brazilian Olist E-Commerce dataset. The objective is to transform raw transactional data into actionable business insights through SQL analysis, Python-based data processing, and interactive Power BI dashboards.
@@ -13,7 +24,26 @@ The project demonstrates the complete analytics workflow:
 * Dashboard Development
 * Business Insight Visualization
 
+
+# Dashboard Preview
+
+### Executive Overview
+![Executive Overview](dashboard/overview_dashboard.png)
+
+### Product Performance Analysis
+![Product Performance](dashboard/product_analysis_dashboard.png)
+
+### State Performance Dashboard
+![State Performance](dashboard/state_performance_dashboard.png)
+
+### Customer Insights Dashboard
+![Customer Insights](dashboard/customer_insights_dashboard.png)
+
+### Order & Delivery Analysis
+![Order Delivery Analysis](dashboard/order_delivery_dashboard.png)
+
 ---
+
 
 ## Business Problem
 
@@ -179,6 +209,20 @@ Visuals:
 
 ---
 
+## Project Outcome
+
+Built a 5-page interactive Power BI dashboard that analyzes:
+
+- Revenue performance
+- Product category trends
+- State-wise sales distribution
+- Customer behavior
+- Order and delivery performance
+
+The dashboard enables business users to identify revenue drivers, customer concentration, payment preferences, and logistics bottlenecks.
+
+---
+
 ## Skills Demonstrated
 
 * Data Cleaning
@@ -193,8 +237,15 @@ Visuals:
 
 ---
 
+
 ## Author
 
 Samira Jena
 
-Information Technology Student | Data Analytics & Machine Learning Enthusiast
+Information Technology Student at VSSUT Burla
+
+Interests:
+- Data Analytics
+- Business Intelligence
+- Machine Learning
+- Data Visualization
